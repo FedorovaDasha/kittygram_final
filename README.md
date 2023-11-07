@@ -61,7 +61,6 @@ sudo docker compose -f [имя-файла-docker-compose.yml] exec backend cp -r
 
 http://localhost:9000/
 
-
 ##
 ### _Демо-версия проекта:_
 [Kittygram](https://mykittygram.sytes.net)ᓚᘏᗢ
