@@ -65,7 +65,7 @@ http://localhost:9000/
 [Kittygram](https://mykittygram.sytes.net)ᓚᘏᗢ
 
 ##
-#### _Индикатор состояния  рабочего процесса workflow:_
+#### _Индикатор состояния рабочего процесса workflow:_
 
 ![example workflow](https://github.com/FedorovaDasha/kittygram_final/actions/workflows/main.yml/badge.svg)
 
