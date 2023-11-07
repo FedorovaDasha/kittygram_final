@@ -6,7 +6,6 @@
 ### _С собачками не входить !!!_ 😉
 ![This is an alt text.]( https://media.tenor.com/2ZyWBNo-3sQAAAAC/%D0%BC%D0%B8%D0%BB%D1%8B%D0%B9-%D0%BA%D0%BE%D1%82%D0%B8%D0%BA.gif "Mau-mau-mauuu")
 
-
 ### _Технологии:_
 
 * Django REST
@@ -67,7 +66,7 @@ http://localhost:9000/
 [Kittygram](https://mykittygram.sytes.net)ᓚᘏᗢ
 
 ##
-#### _Индикатор состояния рабочего процесса workflow:_
+#### _Индикатор состояния  рабочего процесса workflow:_
 
 ![example workflow](https://github.com/FedorovaDasha/kittygram_final/actions/workflows/main.yml/badge.svg)
 
