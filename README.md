@@ -55,7 +55,7 @@ sudo docker compose -f [имя-файла-docker-compose.yml] exec backend pytho
 
 sudo docker compose -f [имя-файла-docker-compose.yml] exec backend python manage.py collectstatic
 
-sudo docker compose -f [имя-файла-docker-compose.yml] exec backend cp -r /app/collected_static/. /static/static/
+sudo docker compose -f [имя-файла-docker-compose.yml] exec backend cp -r /app/collected_static/. /backend_static/static/
 ```
 - Проверяем доступность проекта по адресу:
 
